@@ -4,7 +4,7 @@ Este repositório é um espaço de prática para aprender o fluxo de Pull Reques
 
 ## Sobre
 
-Esse projeto foi criado para pratcar como:
+Esse projeto foi criado para praticar como:
 
 - Criar uma branch
 - Fazer alterações
